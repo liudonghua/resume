@@ -8,11 +8,11 @@
 
 |           |                                                                               |
 | --------- | ----------------------------------------------------------------------------- |
-| Name      | **刘东华**                                                                    |
+| Name      | **刘东华** (Bill Leu)                                                                    |
 | Gender    | Male                                                                          |
 | Education | Electrical Undergraduate degree                                               |
 | Born      | Feb 1796                                                                      |
-| Address   | [南山塘朗](https://map.baidu.com/@12690382.13541176,2566696.514393494,17.26z) |
+| Address   | [Shenzhen GD China](https://map.baidu.com/@12690382.13541176,2566696.514393494,17.26z) |
 | Tel       | [15302685167](tel:15302685167)                                                |
 | Email     | <18681137192@126.com>                                                         |
 | Site      | <https://github.com/liudonghua>                                               |
