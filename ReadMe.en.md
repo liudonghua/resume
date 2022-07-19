@@ -22,7 +22,7 @@
 ## Education Experiences
 
 - At 22 years old I graduated from an university named **[江汉大学](http://www.jhun.edu.cn/)**
-- At 17 years old I graduated raduated from a high school named **汉阳一中**
+- At 17 years old I graduated from a high school named **汉阳一中**
 - From 6 years old to 14 I have studied at a small school named **协丰中心小学** and a middle school named  **协丰中学**
 
 <div style="text-align: center;">
@@ -44,7 +44,7 @@
 
 ### From Jul 2017 to Mar 2021 I programed as embedded Linux/OpenWrt Engineer At an IoT company named  [在那科技](http://www.naviecare.com)
 
-- I was alonely responsible for developing **LoRa openWrt gateway** and finished within the first two months, I realized the complete gateway function and the whole process from the node to the server.
+- I was alonely responsible for developing **LoRa openWrt gateway** and finished within the first two months, I realized the complete gateway function and the whole process from the node to the gateway ,next to the server.
 - I also developed **LoRa** stress test tool to evaluate the reception capability of the gateway,and our peers cannot done or is unreliable than our.
 - I also expanded the gateway from Qualcomm **AR9344** platform to **MTK7688**, **AK3368** and **atom** industrial computers and other linux platforms, and even ported the linux code to **windows** platform for testing purposes. Not only that, the drivers were also packaged into docker containers for easy deployment as edge computing devices.
 - I was the first programmer in the world to solve a bug in the LoRa concentrator driver of the **FTDI** solution, which had been officially deprecated by **Semtech**. In addition to this, I also worked with a satellite communication company to implement gateway and satellite communication.
@@ -78,7 +78,7 @@
 
 --
 
-### From Oct 2014 to Jul 2015 I programed as software develop engineer at smart home company named  [会当](http://home.jia.mn/home/)
+### From Oct 2014 to Jul 2015 I programed as software develop engineer at a smart home company named  [会当](http://home.jia.mn/home/)
 
 - I am responsible for router and backend **PHP** including **nt_link** communication ,**PHP** and **shell** mixed programming, automatic upgrade, **netfilter** programming, **STUN**.
 
@@ -99,16 +99,16 @@
 
 </div>
 
-### VLC player component based on [Cordova](https://cordova.apache.org/) with RTFP protocol for iOS platform
+### VLC player component based on [Cordova](https://cordova.apache.org/) with RTSP protocol for iOS platform
 
 - I had realized this function on Android platform and most prefectly worked on iOS.
 - I added a line code in a position of iOS framework codes and referenced a VLC function and realized player function by researching within a week.
 
-- That is my highest light moment within my programmer life and my most presentful coding style - simple and sliver.
+- That is my highest light moment within my programmer life and my most presentful coding style - simple and clever.
 
 ---
 
-### Optimzation for Luci User Manager[github](https://github.com/liudonghua/admin-multi-users-luci)
+### Optimzation for Luci User Manager [github](https://github.com/liudonghua/admin-multi-users-luci)
 
 - Login of root user only supported before official luci of 18.06 version and easily leaked sercert,there were a lot of solutions for multi user manager.
 
@@ -118,12 +118,12 @@
 
 ---
 
-### SSH Reverse Controller Platform for Mass Embedded Devices[github](https://githubcom/liudonghua/sshtunnel)
+### SSH Reverse Controller Platform for Mass Embedded Devices [github](https://githubcom/liudonghua/sshtunnel)
 
 - I belive that is most simple solution for remote control mass embedded linux devices.
-- I reSSH Reverse Controller Platform for Mass Embedded Devices.But we have a lot of devices needed to remote controlling.
-- After trying, failing, I finally found a shortcut method with a inspiration whthin a week.
-- The original solution included PHP code which and was always a stumbling block in my heart. On the eve of the China Christmas, I had nothing to do and tried to remove this burden. In less than a day, I finally succeeded, and it was guaranteed to be compatible with the original interface. Only the proxy server was changed, and the endpoints did not need to be changed.
+- I refrenced SSH Reverse Controller Platform for Mass Embedded Devices.But we have a lot of devices needed to remote controlling.
+- After trying, after failing, I finally found a shortcut method with a inspiration whthin a week.
+- The original solution included PHP code which was always a stumbling block in my heart. On the eve of the China Christmas, I had nothing to do and tried to remove this burden. In less than a day, I finally succeeded, and it was guaranteed to be compatible with the original interface. Only the proxy server was changed, and the endpoints did not need to be changed.
 
 ---
 
@@ -142,9 +142,8 @@
 
 ### Add Baidu Map to LoRa Server React Framework
 
-- [The original code](https://github.com/as940125/lora-app-server) has a map called Street, which cannot be accessed normally in China. The development manager plans to replace it with a Baidu map in China. But the front-end programmers don’t know React and only Vue. For this small function, He have to rewrite the front-end code with Vue. The simple problem that was originally planned to be solved quickly ended up being delayed for a year before leaving.
+- [The original code](https://github.com/as940125/lora-app-server) has a map called Street, which be blocked unormally in China. The development manager plans to replace it with a Baidu map in China. But the front-end programmers don’t know React and only Vue. For this small function, He rewrite full front-end code with Vue. The simple problem that was originally planned to be solved quickly ended up being delayed for a year before leaving.
 - After I took over, I confirmed that this programmer is completely unqualified. In fact, he can't even write Vue, and he doesn't understand asynchronous ajax at all. I originally planned to modify Vue, but then I thought it was worthless, so I started to add Baidu map under the React framework, referring to the original Street map code to easily implement the Baidu map function, and switch to Baidu map when judging that the browser language is zh_CN.
-- In fact, this is just a small case, nothing to be concerned about at all, the reason why I mention it is just to emphasize-**most programmers are not qualified**.
 
 ---
 
@@ -160,8 +159,6 @@
     > A programmer can learn the industry's advanced code design and technical trends to improve themselves continuously by that read the codes and the documents of referencing excellent repositories.
 
 - I have been a tosser that learn **VBA** to improve efficiency earliest and self-learning **PHP** and flash the router to compiling **openWrt** later and easy other that crack **Black Apple** and flash **Android**.
-
-    > Also, **Centos 7** is no longer maintained, but there are still companies holding on to this obsolete system that is stability as excuse.However, the software industry is the only industry that has no sunk costs. Even a software bug can be upgraded with a patch, and no user has sued for a software bug (because with a disclaimer agreement). Can be said to be incompetent that refuse upgrading.
 
 - Since I started working as a programmer, I has been the best programmer at all worked company. I don't escape my job or complain about the company, because I believe that should take responsibility myself for own choicing job (studied from "Escape from Freedom" Written by Fromm). I should leave if not satisfied.
 
