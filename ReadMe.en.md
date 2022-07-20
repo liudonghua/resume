@@ -95,6 +95,11 @@
 
     > ThinkPHP YUCC
 
+
+<div style="page-break-after: always;"></div>
+
+<div style="text-align: center;">
+
 ## My Achivements
 
 </div>
@@ -138,14 +143,7 @@
 - The partner company has been failed with other companies. The difficulty of this project is that there are only four window communication times per day, and each time is indeterminate, and the maximum duration is no more than 5 minutes;
 - Later, it was found that the project was simpler than expected, and the communication with the satellite was successful.
 
----
-
-### Add Baidu Map to LoRa Server React Framework
-
-- [The original code](https://github.com/as940125/lora-app-server) has a map called Street, which be blocked unormally in China. The development manager plans to replace it with a Baidu map in China. But the front-end programmers don’t know React and only Vue. For this small function, He rewrite full front-end code with Vue. The simple problem that was originally planned to be solved quickly ended up being delayed for a year before leaving.
-- After I took over, I confirmed that this programmer is completely unqualified. In fact, he can't even write Vue, and he doesn't understand asynchronous ajax at all. I originally planned to modify Vue, but then I thought it was worthless, so I started to add Baidu map under the React framework, referring to the original Street map code to easily implement the Baidu map function, and switch to Baidu map when judging that the browser language is zh_CN.
-
----
+<div style="page-break-after: always;"></div>
 
 <div style="text-align: center;">
 
@@ -177,7 +175,3 @@
 + From Mar 2004 to Jun 2005 worked at a electric(DVD/DVR) factory (FUNAI from Japan) named  东莞嘉财电业制造厂
 
 + 2002/2-2003/12 From Feb 2002 to Dec 2003 worked  at a power supply adapter factory from Taiwan named  东莞上焱电器制品厂
-
-<div style="page-break-after: always;"></div>
-
-<div style="text-align: center;">
